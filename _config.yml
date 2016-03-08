@@ -1,0 +1,29 @@
+name: Marcus Macadi
+favicon: null
+layout_spectrum: 0.38907284662127495
+typography_spectrum: 0.6791776639875025
+title: Marcus Macadi
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.558155365055427
+  lightness: 0.2870654189027846
+  saturation: 0.6687668319791555
+  rhythmicContrast: 0.371847425121814
+purpose: []
